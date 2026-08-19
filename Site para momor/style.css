@@ -7,7 +7,11 @@ body {
     flex-direction: column;
 
     background-image: url("nois.jpg");
+<<<<<<< HEAD
     background-size: 1200px 2000px;
+=======
+    background-size: contain;
+>>>>>>> b0dba55b1196e053adde15dd3019788c430cf711
     background-position: center;
     background-repeat: no-repeat;
 
